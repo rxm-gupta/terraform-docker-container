@@ -17,7 +17,7 @@ terraform-docker-container/
 ├── main.tf                # Terraform configuration file  
 ├── terraform.lock.hcl     # Provider version lock file  
 ├── .gitignore             # Excludes sensitive and auto-generated files  
-├── terraform.log          # (Optional) Terraform command execution logs  
+├── terraform.log          # Terraform command execution logs  
 └── README.md              # Project documentation  
 
 ---
@@ -38,11 +38,11 @@ terraform --version
 
 ## ⚙️ Steps to Run the Project
 
-1. **Clone this Repository**  
-   ```bash
-   git clone https://github.com/rxm-gupta/terraform-docker-container.git  
-   cd terraform-docker-container
-   ``` 
+**Clone this Repository**  
+```bash
+git clone https://github.com/rxm-gupta/terraform-docker-container.git  
+cd terraform-docker-container
+``` 
 ---
 
 **Initialize Terraform**
