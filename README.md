@@ -88,3 +88,8 @@ After testing, clean up the resources:
 ```bash
 terraform destroy -auto-approve
 ```
+
+
+![Image](https://github.com/user-attachments/assets/ab547757-a0f2-4cbb-927d-8b99c226ca60)
+
+![Image](https://github.com/user-attachments/assets/8c0ea4e3-7c6d-4d17-941d-dedf9ce6b9cf)
